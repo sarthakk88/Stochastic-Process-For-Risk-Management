@@ -8,6 +8,7 @@
   <li>Monte Carlo Simulation on Real World Stock Prices</li>
   <li>Black Scholes Option Pricing Model</li>
   <li>Binomial Pricing Model on Real World Stock Prices</li>
+  <li>Predicting Nifty using Monte Carlo and fbprophet</li>
 </ul>
 
 #### By
